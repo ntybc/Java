@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exr05 {
+public class conversorDeTempo {
         public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         

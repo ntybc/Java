@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class exr01 {
+public class mediaSimples {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

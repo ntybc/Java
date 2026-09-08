@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exr04 {
+public class areaEperimetro {
         public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 
