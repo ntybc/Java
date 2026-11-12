@@ -1,0 +1,4 @@
+=== Relatório de Execução ===
+Timestamp: 12/11/2026 20:18:40
+Status: Sistema iniciado com sucesso
+Diretório: C:\Users\natha\OneDrive\Documentos\FAETERJ\java\Exercícios 13\dados\relatorios

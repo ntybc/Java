@@ -1,0 +1,8 @@
+[INFO] Servidor iniciado
+[INFO] Conexão estabelecida com o banco
+[ERROR] Falha de conexao
+[INFO] Requisição processada
+[ERROR] Timeout no banco
+[WARN] Uso de memória alto
+[ERROR] Falha ao gravar log
+[INFO] Servidor finalizado
